@@ -1,0 +1,20 @@
+body{
+background-color: rgb(79, 128, 235);
+}
+
+#titulo{
+background-image: radial-gradient(rgb black, rgb(79, 128, 235));
+font-size: 50px;
+text-align: center;
+}
+#cmdgit{
+font-size: 10px;
+background-color: white;
+position: absolute;
+margin-top: 10px;
+}
+#exrepositorio{
+font-size: 10px;
+background-color: white;
+position: center;
+}
