@@ -40,7 +40,8 @@ git add .
 - git commit -m "teste3"
 - git push
 
-       MUDAR IDIOMA
+       MUDAR IDIOMA VISUAL STUDIO CODE  
+       
 - CONTROL + SHIFT + P 
 - DISPLAY 
 - ESCOLHER LINGUA 
