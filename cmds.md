@@ -1,13 +1,13 @@
 
       COMANDOS PARA GITHUB
-!- criar novo repositório 
-1- git init
-2- git status
-3- git add .
-4- git status
-5- git commit -m " nome do commit"
-6- copiar e colar comando dado no proprio git 
-7- verificar se deu tudo certo no git 
+- criar novo repositório 
+- git init
+- git status
+- git add .
+- git status
+- git commit -m " nome do commit"
+- copiar e colar comando dado no proprio git 
+- verificar se deu tudo certo no git 
 
          ATUALIZAR REPOSITÓRIO
 1- git status
