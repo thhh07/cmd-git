@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CMDS</title>
-    <link rel="stylesheet" href="cmd-estilo.css">
-</head>
-<body>
-    <!---
+
       COMANDOS PARA GITHUB
 !- criar novo repositório 
 1- git init
@@ -54,9 +45,3 @@ git add .
 2- DISPLAY 
 3- ESCOLHER LINGUA 
 
---->
-
-        
-
-</body>
-</html>
