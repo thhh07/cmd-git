@@ -42,7 +42,7 @@
 - OU (para adicionar todas as modificações):
   git add .
 - git commit -m "teste3"
-- git push
+- git push origin nome_da_branch
 
        MUDAR IDIOMA VISUAL STUDIO CODE
 
